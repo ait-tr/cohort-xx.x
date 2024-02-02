@@ -1,0 +1,11 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "src/ExampleClassModule2.java",
+    "src/example_package/ExamplePackageClassModule2.java",
+    "src/ExampleClassModule1.java",
+    "src/example_package/ExamplePackageClassModule1.java"
+  ]
+}
